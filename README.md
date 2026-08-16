@@ -13,7 +13,7 @@ The complete implementation, EDA, preprocessing, experiments, visualizations, mo
 
 Used-car dataset containing vehicle specifications, location, seller information, condition, and price.
 
-**Source:** [Kaggle Dataset]((https://www.kaggle.com/datasets/taeefnajib/bikroy-car-price-prediction))
+**Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/taeefnajib/bikroy-car-price-prediction)
 
 ## Key Concepts
 
