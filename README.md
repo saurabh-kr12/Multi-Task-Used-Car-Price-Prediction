@@ -71,13 +71,13 @@ The Gradient Boosting models achieved the best individual task performance, whil
 
 The complete project is available here:
 
-[`used_car_multitask.ipynb`](./used_car_multitask.ipynb)
+[`multi-task-used-car-price-prediction.ipynb`](./multi-task-used-car-price-prediction.ipynb)
 
 ## How to Run
 
 1. Download or clone this repository.
 2. Download the dataset from the Kaggle source.
-3. Open `used_car_multitask.ipynb`.
+3. Open `multi-task-used-car-price-prediction.ipynb`.
 4. Update the dataset path if required.
 5. Run the notebook from top to bottom.
 
